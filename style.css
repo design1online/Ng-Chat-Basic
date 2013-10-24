@@ -1,0 +1,17 @@
+#chat {
+ height: 33em; 
+ overflow: auto;
+ background-color: #EEE;
+ border-radius: .25em;
+ margin-bottom: 1em;
+}
+
+.status {
+  float: left;
+  margin-top: -1em;
+}
+
+#logout {
+  float: right;
+  margin-top: -1.2em;
+}
