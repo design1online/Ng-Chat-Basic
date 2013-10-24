@@ -7,4 +7,6 @@ Angular Basic Chat
 * Uses bootstrap
 * Realtime chatting
 
-See the tutorial at http://jadendreamer.wordpress.com/2013/10/17/angular-javascript-chatroom-tutorial-no-database-or-sockets-required/
+Tutorial: http://jadendreamer.wordpress.com/2013/10/17/angular-javascript-chatroom-tutorial-no-database-or-sockets-required/
+
+Live Demo: http://plnkr.co/edit/uEbVVJ?p=preview
